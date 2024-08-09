@@ -1,0 +1,5 @@
+This is a simple password management application built using Python's Tkinter library.
+The application features a user-friendly interface where users can input and save website credentials securely. 
+The UI is designed with clean labels and entry fields, making it easy to navigate. 
+This project is ideal for those looking to manage their passwords efficiently without relying on third-party services.
+
